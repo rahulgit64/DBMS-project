@@ -15,7 +15,8 @@ Gender: The patient's gender, stored as a string.
 Contact: The contact number of the patient.
 Address: The patient's address
 
-![Uploading Screenshot 2024-05-18 101731.png…]()
+![Screenshot 2024-05-18 101731](https://github.com/rahulgit64/DBMS-project/assets/150422604/c47bd283-c3d6-4e9a-9b5c-2559f5c7ee82) 
+
 
 
 #Doctors Table
@@ -27,5 +28,34 @@ Contact: The contact number of the doctor
 
 ![Screenshot 2024-05-18 102138](https://github.com/rahulgit64/DBMS-project/assets/150422604/68a300bf-3adf-4c5f-8ca1-cd487c9498f3)
 
+#Appointments Table
+
+AppointmentID: An integer serving as the primary key to uniquely identify each appointment.
+PatientID: A foreign key linking to the PatientID in the Patients table.
+DoctorID: A foreign key linking to the DoctorID in the Doctors table.
+AppointmentDate: The date of the appointment.
+StartTime: The start time of the appointment.
+EndTime: The end time of the appointment.
+Notes: Additional notes about the appointment.
+
+![Screenshot 2024-05-18 102441](https://github.com/rahulgit64/DBMS-project/assets/150422604/e19d8040-3d7e-4c4e-bfe2-3133c1b4575e) 
+
+#Data Insertion
+Initial data is inserted into the tables to provide sample records for testing and demonstration purposes.
+
+![Screenshot 2024-05-18 102718](https://github.com/rahulgit64/DBMS-project/assets/150422604/56d6eab8-3d3b-442e-b038-38aa7c43d3f8)
+
+#Data Retrieval
+Various SQL queries are used to retrieve data from the database, allowing users to access information about patients, doctors, and appointments efficiently.
+
+![Screenshot 2024-05-18 102847](https://github.com/rahulgit64/DBMS-project/assets/150422604/5516ff40-0e84-4f4d-a314-b3176f9b8d92)
+
+#Data Update and Deletion
+The system allows for updating and deleting records to keep the database current and accurate.
+
+![Screenshot 2024-05-18 102944](https://github.com/rahulgit64/DBMS-project/assets/150422604/bc0a9980-3401-481c-bd92-85a311fe88a5)
+
+#Conclusion
+The Hospital Management System is designed to enhance the administrative efficiency of hospitals by managing patient and doctor information, and facilitating appointment scheduling. The system ensures data integrity through well-defined relationships and supports various database operations, making it a robust solution for healthcare management.
 
 
