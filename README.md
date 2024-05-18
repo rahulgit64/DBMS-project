@@ -55,6 +55,13 @@ The system allows for updating and deleting records to keep the database current
 
 ![Screenshot 2024-05-18 102944](https://github.com/rahulgit64/DBMS-project/assets/150422604/bc0a9980-3401-481c-bd92-85a311fe88a5)
 
+# Output
+
+![Screenshot 2024-05-18 110023](https://github.com/rahulgit64/DBMS-project/assets/150422604/48e7a9e8-d674-4d11-bd66-c2f89938a6c8)
+![Screenshot 2024-05-18 110117](https://github.com/rahulgit64/DBMS-project/assets/150422604/600ec939-6d46-4664-9183-1ceb7ee07661)
+
+
+
 # Conclusion
 The Hospital Management System is designed to enhance the administrative efficiency of hospitals by managing patient and doctor information, and facilitating appointment scheduling. The system ensures data integrity through well-defined relationships and supports various database operations, making it a robust solution for healthcare management.
 
