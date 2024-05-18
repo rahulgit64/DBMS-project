@@ -57,12 +57,17 @@ The system allows for updating and deleting records to keep the database current
 
 # Output
 
-![Screenshot 2024-05-18 110023](https://github.com/rahulgit64/DBMS-project/assets/150422604/48e7a9e8-d674-4d11-bd66-c2f89938a6c8)
-![Screenshot 2024-05-18 110117](https://github.com/rahulgit64/DBMS-project/assets/150422604/600ec939-6d46-4664-9183-1ceb7ee07661)
+![Screenshot 2024-05-18 200448](https://github.com/rahulgit64/DBMS-project/assets/150422604/ce991590-a286-4fe4-838a-bc9209b4bb98)
+
 
 
 
 # Conclusion
 The Hospital Management System is designed to enhance the administrative efficiency of hospitals by managing patient and doctor information, and facilitating appointment scheduling. The system ensures data integrity through well-defined relationships and supports various database operations, making it a robust solution for healthcare management.
+
+# Compile
+
+https://paiza.io/en/languages/python3
+
 
 
