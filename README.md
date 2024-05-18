@@ -1,6 +1,6 @@
 # Hospital Management System Project Description
 
-#Er diagram
+# Er diagram
 
 ![Screenshot 2024-05-19 002644](https://github.com/rahulgit64/DBMS-project/assets/150422604/b2f216f0-6cf6-417f-9f57-f7fec2bdf541)
 
