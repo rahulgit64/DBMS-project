@@ -1,5 +1,10 @@
 # Hospital Management System Project Description
 
+#Er diagram
+
+![Screenshot 2024-05-19 002644](https://github.com/rahulgit64/DBMS-project/assets/150422604/b2f216f0-6cf6-417f-9f57-f7fec2bdf541)
+
+
 # Overview
 The Hospital Management System (HMS) is a comprehensive software solution designed to streamline the operations and management of a hospital. This system facilitates efficient handling of patient information, doctor details, and appointment scheduling, ensuring smooth and effective healthcare service delivery.
 
@@ -44,16 +49,6 @@ Notes: Additional notes about the appointment.
 Initial data is inserted into the tables to provide sample records for testing and demonstration purposes.
 
 ![Screenshot 2024-05-18 102718](https://github.com/rahulgit64/DBMS-project/assets/150422604/56d6eab8-3d3b-442e-b038-38aa7c43d3f8)
-
-# Data Retrieval
-Various SQL queries are used to retrieve data from the database, allowing users to access information about patients, doctors, and appointments efficiently.
-
-![Screenshot 2024-05-18 102847](https://github.com/rahulgit64/DBMS-project/assets/150422604/5516ff40-0e84-4f4d-a314-b3176f9b8d92)
-
-# Data Update and Deletion
-The system allows for updating and deleting records to keep the database current and accurate.
-
-![Screenshot 2024-05-18 102944](https://github.com/rahulgit64/DBMS-project/assets/150422604/bc0a9980-3401-481c-bd92-85a311fe88a5)
 
 # Output
 
