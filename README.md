@@ -6,7 +6,8 @@
 
 # Schema diagram
 
-![Screenshot 2024-05-19 102648](https://github.com/rahulgit64/DBMS-project/assets/150422604/dbca8984-d12b-4340-a995-7992d21e92dc)
+![Screenshot 2024-05-19 102715](https://github.com/rahulgit64/DBMS-project/assets/150422604/c9621a7b-869d-40a0-8c52-163283cec003)
+
 
 
 
