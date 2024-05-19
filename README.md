@@ -4,6 +4,11 @@
 
 ![Screenshot 2024-05-19 002644](https://github.com/rahulgit64/DBMS-project/assets/150422604/b2f216f0-6cf6-417f-9f57-f7fec2bdf541)
 
+# Schema diagram
+
+![Screenshot 2024-05-19 102648](https://github.com/rahulgit64/DBMS-project/assets/150422604/dbca8984-d12b-4340-a995-7992d21e92dc)
+
+
 
 # Overview
 The Hospital Management System (HMS) is a comprehensive software solution designed to streamline the operations and management of a hospital. This system facilitates efficient handling of patient information, doctor details, and appointment scheduling, ensuring smooth and effective healthcare service delivery.
