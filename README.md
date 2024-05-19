@@ -2,12 +2,11 @@
 
 # Er diagram
 
-![Screenshot 2024-05-19 002644](https://github.com/rahulgit64/DBMS-project/assets/150422604/b2f216f0-6cf6-417f-9f57-f7fec2bdf541)
+![Screenshot 2024-05-19 102715](https://github.com/rahulgit64/DBMS-project/assets/150422604/c9621a7b-869d-40a0-8c52-163283cec003)
 
 # Schema diagram
 
-![Screenshot 2024-05-19 102715](https://github.com/rahulgit64/DBMS-project/assets/150422604/c9621a7b-869d-40a0-8c52-163283cec003)
-
+![Screenshot 2024-05-19 105852](https://github.com/rahulgit64/DBMS-project/assets/150422604/077154b1-c0ae-4500-8dbf-30ea8e8af97c)
 
 
 
